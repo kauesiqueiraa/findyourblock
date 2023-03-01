@@ -9,6 +9,10 @@ Além de implementação de funcionalidades de em Javascript(ainda em construç�
 - Utilizado tambem a responsividade como base, para que funcione desde um resolução mais alta até um mobile de forma clean, intuitiva e pratico. 
 </p>
 
+<a href="https://kauesiqueiraa.github.io/findyourblock/"><h2>Clique para acessar o projeto: https://kauesiqueiraa.github.io/findyourblock/</h2></a>
+<a></a>
+
 <h2>Resolução</h2>
 
-<img src="./assets/layout.jpg" alt="layout" width="600px">
+<img src="../assets/layout.jpg" alt="layout" width="600px">
+
