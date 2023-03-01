@@ -17,4 +17,7 @@ Além de implementação de funcionalidades de em Javascript(ainda em construç�
 <h2>Resolução</h2>
 
 <img src="../assets/layout.jpg" alt="layout" width="600px">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2ae436ca9a43d24c7d706d7a6939599e4096f466
